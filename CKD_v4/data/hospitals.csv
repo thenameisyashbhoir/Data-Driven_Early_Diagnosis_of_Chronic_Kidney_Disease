@@ -1,0 +1,156 @@
+Hospital Name,City,State,Address,Phone,Specialty,Type,Rating
+AIIMS New Delhi,Delhi,Delhi,"Ansari Nagar, New Delhi – 110029",011-26588500,Nephrology & Kidney Transplant,Government,5.0
+Safdarjung Hospital,Delhi,Delhi,"Ring Road, New Delhi – 110029",011-24616499,Nephrology,Government,4.2
+Sir Ganga Ram Hospital,Delhi,Delhi,"Rajinder Nagar, New Delhi – 110060",011-42251300,Nephrology & Urology,Private,4.6
+BL Kapur Memorial Hospital,Delhi,Delhi,"Pusa Road, New Delhi – 110005",011-30403040,Kidney Transplant,Private,4.5
+Fortis Escorts Heart Institute,Delhi,Delhi,"Okhla Road, New Delhi – 110025",011-47135000,Nephrology,Private,4.4
+Kokilaben Dhirubhai Ambani Hospital,Mumbai,Maharashtra,"Four Bungalows, Andheri West, Mumbai – 400053",022-42696969,Nephrology & Urology,Private,4.7
+Lilavati Hospital,Mumbai,Maharashtra,"A-791, Bandra Reclamation, Mumbai – 400050",022-26751000,Nephrology,Private,4.5
+Tata Memorial Hospital,Mumbai,Maharashtra,"Dr Ernest Borges Marg, Parel, Mumbai – 400012",022-24177000,Kidney Cancer & Nephrology,Government,4.8
+Hinduja Hospital,Mumbai,Maharashtra,"Veer Savarkar Marg, Mahim, Mumbai – 400016",022-24452222,Nephrology,Private,4.6
+KEM Hospital,Mumbai,Maharashtra,"Acharya Donde Marg, Parel, Mumbai – 400012",022-24136051,Nephrology,Government,4.3
+Manipal Hospital,Bangalore,Karnataka,"98 HAL Airport Road, Bengaluru – 560017",080-25024444,Nephrology,Private,4.6
+Narayana Health City,Bangalore,Karnataka,"258/A Bommasandra Industrial Area, Bengaluru – 560099",080-71222222,Kidney Transplant,Private,4.7
+Apollo Hospital,Bangalore,Karnataka,"154/11 Bannerghatta Road, Bengaluru – 560076",080-26304050,Nephrology,Private,4.5
+St. John's Medical College Hospital,Bangalore,Karnataka,"Sarjapur Road, Bengaluru – 560034",080-22065000,Nephrology,Government,4.4
+Victoria Hospital,Bangalore,Karnataka,"KR Market, Bengaluru – 560002",080-26701150,Nephrology,Government,4.0
+Apollo Hospitals,Chennai,Tamil Nadu,"21 Greams Lane, Chennai – 600006",044-28290200,Nephrology & Transplant,Private,4.7
+Fortis Malar Hospital,Chennai,Tamil Nadu,"52 1st Main Road, Gandhi Nagar, Chennai – 600020",044-42896789,Nephrology,Private,4.5
+Rajiv Gandhi Government General Hospital,Chennai,Tamil Nadu,"Park Town, Chennai – 600003",044-25305000,Nephrology,Government,4.1
+Sri Ramachandra Medical Centre,Chennai,Tamil Nadu,"1 Ramachandra Nagar, Porur, Chennai – 600116",044-45928500,Nephrology,Private,4.6
+Stanley Medical College Hospital,Chennai,Tamil Nadu,"Old Jail Road, Chennai – 600001",044-25281111,Nephrology,Government,4.0
+Hyderabad Institute of Nephrology,Hyderabad,Telangana,"Road No. 1, Banjara Hills, Hyderabad – 500034",040-23540100,Nephrology Superspecialty,Private,4.8
+NIMS Hospital,Hyderabad,Telangana,"Punjagutta, Hyderabad – 500082",040-23489000,Nephrology,Government,4.2
+Apollo Hospitals,Hyderabad,Telangana,"Jubilee Hills, Hyderabad – 500033",040-23607777,Nephrology,Private,4.6
+Yashoda Hospital,Hyderabad,Telangana,"Alexander Road, Secunderabad – 500003",040-67567890,Kidney Transplant,Private,4.5
+Care Hospitals,Hyderabad,Telangana,"Road No. 1, Banjara Hills, Hyderabad – 500034",040-30418000,Nephrology,Private,4.4
+Medanta Hospital,Gurugram,Haryana,"CH Baktawar Singh Road, Sector 38, Gurugram – 122001",0124-4141414,Nephrology & Transplant,Private,4.7
+Fortis Memorial Research Institute,Gurugram,Haryana,"Sector 44, Gurugram – 122002",0124-4962200,Kidney Transplant,Private,4.6
+Artemis Hospital,Gurugram,Haryana,"Sector 51, Gurugram – 122001",0124-4511111,Nephrology,Private,4.4
+Max Hospital,Gurugram,Haryana,"W3 Sector 1 Press Enclave Road, Saket, Gurugram – 110017",011-26515050,Nephrology,Private,4.5
+Pushpanjali Hospital,Gurugram,Haryana,"W 86 A Pushpanjali Vihar, Gurugram – 122001",0124-2572066,Nephrology,Private,4.2
+SMS Hospital,Jaipur,Rajasthan,"JLN Marg, Jaipur – 302004",0141-2518330,Nephrology,Government,4.3
+Fortis Escorts Hospital,Jaipur,Rajasthan,"Jawahar Lal Nehru Marg, Jaipur – 302017",0141-2547000,Nephrology & Transplant,Private,4.5
+Mahatma Gandhi Hospital,Jaipur,Rajasthan,"Sitabari, Tonk Road, Jaipur – 302022",0141-2792020,Nephrology,Government,4.1
+Narayana Multispeciality Hospital,Jaipur,Rajasthan,"Sector 28, Pratap Nagar, Jaipur – 302033",0141-7101010,Nephrology,Private,4.4
+Eternal Heart Care Centre,Jaipur,Rajasthan,"European Enclave, 11-A Jagatpura Road, Jaipur – 302017",0141-3095000,Nephrology,Private,4.3
+PGIMER,Chandigarh,Punjab,"Sector 12, Chandigarh – 160012",0172-2755555,Nephrology & Transplant,Government,4.8
+Fortis Hospital,Chandigarh,Punjab,"Sector 62, Phase 8, Mohali – 160062",0172-4692222,Nephrology,Private,4.5
+Government Medical College Hospital,Chandigarh,Punjab,"Sector 32, Chandigarh – 160030",0172-2665253,Nephrology,Government,4.1
+Max Super Speciality Hospital,Chandigarh,Punjab,"Phase 6, Mohali – 160055",0172-6652000,Nephrology,Private,4.4
+Ivy Hospital,Chandigarh,Punjab,"Sector 71, Mohali – 160071",0172-7199100,Nephrology,Private,4.3
+Ruby Hall Clinic,Pune,Maharashtra,"40 Sassoon Road, Pune – 411001",020-26163391,Nephrology & Transplant,Private,4.6
+Deenanath Mangeshkar Hospital,Pune,Maharashtra,"Erandwane, Pune – 411004",020-49150000,Nephrology,Private,4.7
+Jehangir Hospital,Pune,Maharashtra,"32 Sassoon Road, Pune – 411001",020-66812222,Nephrology,Private,4.4
+KEM Hospital Pune,Pune,Maharashtra,"Rasta Peth, Pune – 411011",020-26128000,Nephrology,Government,4.1
+Sahyadri Hospitals,Pune,Maharashtra,"30 C Karve Road, Pune – 411004",020-67213600,Nephrology,Private,4.5
+SGPGI,Lucknow,Uttar Pradesh,"Raebareli Road, Lucknow – 226014",0522-2668700,Nephrology & Transplant,Government,4.7
+King George Medical University,Lucknow,Uttar Pradesh,"Shahmina Road, Lucknow – 226003",0522-2258880,Nephrology,Government,4.3
+Medanta Hospital,Lucknow,Uttar Pradesh,"Sector A, Pocket 1, Amar Shaheed Path, Lucknow – 226030",0522-4505050,Nephrology,Private,4.6
+Apollo Medics,Lucknow,Uttar Pradesh,"Kanpur – Lucknow Highway, Lucknow – 226010",0522-3505050,Nephrology,Private,4.5
+Sahara Hospital,Lucknow,Uttar Pradesh,"Viraj Khand, Gomti Nagar, Lucknow – 226010",0522-6780000,Nephrology,Private,4.3
+Postgraduate Institute of Medical Sciences,Kolkata,West Bengal,"244 AJC Bose Road, Kolkata – 700020",033-22235411,Nephrology,Government,4.4
+AMRI Hospital,Kolkata,West Bengal,"JC-16 & 17 Salt Lake, Kolkata – 700098",033-66800000,Nephrology & Transplant,Private,4.6
+Fortis Hospital,Kolkata,West Bengal,"730 Anandapur, EM Bypass, Kolkata – 700107",033-66282090,Nephrology,Private,4.5
+Peerless Hospital,Kolkata,West Bengal,"360 Pancha Sayar, Kolkata – 700094",033-44001111,Nephrology,Private,4.4
+R.G. Kar Medical College,Kolkata,West Bengal,"1 Khudiram Bose Sarani, Kolkata – 700004",033-25551876,Nephrology,Government,4.1
+Bombay Hospital,Indore,Madhya Pradesh,"Ring Road, Indore – 452001",0731-2573900,Nephrology,Private,4.5
+Choithram Hospital,Indore,Madhya Pradesh,"14 Manik Bagh Road, Indore – 452014",0731-2361777,Nephrology & Transplant,Private,4.6
+Apollo Hospitals,Indore,Madhya Pradesh,"Scheme No. 74, Indore – 452010",0731-4077000,Nephrology,Private,4.5
+MY Hospital,Indore,Madhya Pradesh,"MG Road, Indore – 452001",0731-2366020,Nephrology,Government,4.0
+Medanta Hospital,Indore,Madhya Pradesh,"Near Labranum Square, Indore – 452010",0731-3091000,Nephrology,Private,4.4
+AIIMS Bhopal,Bhopal,Madhya Pradesh,"Saket Nagar, Bhopal – 462020",0755-2672316,Nephrology & Transplant,Government,4.7
+Bansal Hospital,Bhopal,Madhya Pradesh,"C-Sector, Shahpura, Bhopal – 462039",0755-4000555,Nephrology,Private,4.5
+Hamidia Hospital,Bhopal,Madhya Pradesh,"Sultania Road, Bhopal – 462001",0755-2540222,Nephrology,Government,4.1
+People's Hospital,Bhopal,Madhya Pradesh,"Bhanpur, Bhopal – 462037",0755-4021111,Nephrology,Private,4.4
+AIIMS Nagpur,Nagpur,Maharashtra,"MIHAN, Nagpur – 441108",0712-2970100,Nephrology & Transplant,Government,4.7
+Wockhardt Hospital,Nagpur,Maharashtra,"Nagpur – 440010",0712-6657000,Nephrology,Private,4.4
+Orange City Hospital,Nagpur,Maharashtra,"Wadi, Nagpur – 440023",0712-6602000,Nephrology,Private,4.5
+Alexis Hospital,Nagpur,Maharashtra,"Koradi Road, Nagpur – 440030",0712-6634999,Nephrology,Private,4.3
+Government Medical College Nagpur,Nagpur,Maharashtra,"Medical Square, Nagpur – 440009",0712-2722222,Nephrology,Government,4.0
+Surat Civil Hospital,Surat,Gujarat,"Station Road, Surat – 395001",0261-2244456,Nephrology,Government,4.1
+Kiran Hospital,Surat,Gujarat,"Udhna Darwaja, Surat – 395002",0261-6191000,Nephrology & Transplant,Private,4.6
+Sunshine Global Hospital,Surat,Gujarat,"Athwa Lines, Surat – 395007",0261-2460477,Nephrology,Private,4.4
+Sterling Hospitals,Surat,Gujarat,"Majura Gate Crossing, Surat – 395002",0261-6624444,Nephrology,Private,4.5
+Gujarat Super Specialty Hospital,Surat,Gujarat,"Udhna, Surat – 394210",0261-2890000,Nephrology,Private,4.3
+Civil Hospital Ahmedabad,Ahmedabad,Gujarat,"Asarwa, Ahmedabad – 380016",079-22681000,Nephrology,Government,4.2
+Apollo Hospitals,Ahmedabad,Gujarat,"Plot 1A, GIDC, Gandhinagar – 382421",079-66701800,Nephrology,Private,4.6
+Sterling Hospitals,Ahmedabad,Gujarat,"Off Gurukul Road, Memnagar, Ahmedabad – 380052",079-40011000,Nephrology & Transplant,Private,4.5
+SAL Hospital,Ahmedabad,Gujarat,"Drive-in Road, Ahmedabad – 380054",079-40204040,Nephrology,Private,4.6
+HCG Hospital,Ahmedabad,Gujarat,"Mithakhali, Ahmedabad – 380006",079-40242900,Nephrology,Private,4.3
+AIIMS Patna,Patna,Bihar,"Phulwarisharif, Patna – 801507",0612-2451070,Nephrology & Transplant,Government,4.6
+Paras HMRI Hospital,Patna,Bihar,"Raja Bazaar, Patna – 800014",0612-3990300,Nephrology,Private,4.5
+Ruban Memorial Hospital,Patna,Bihar,"Boring Road, Patna – 800001",0612-6540510,Nephrology,Private,4.3
+IGIMS,Patna,Bihar,"Sheikhpura, Patna – 800014",0612-3296087,Nephrology,Government,4.4
+Nalanda Medical College,Patna,Bihar,"Agamkuan, Patna – 800007",0612-2631050,Nephrology,Government,4.0
+JIPMER,Pondicherry,Puducherry,"Dhanvantri Nagar, Puducherry – 605006",0413-2272380,Nephrology & Transplant,Government,4.9
+AIIMS Jodhpur,Jodhpur,Rajasthan,"Basni Phase-II, Jodhpur – 342005",0291-2740741,Nephrology,Government,4.6
+Mathura Das Mathur Hospital,Jodhpur,Rajasthan,"Residency Road, Jodhpur – 342001",0291-2435655,Nephrology,Government,4.0
+Medipulse Hospital,Jodhpur,Rajasthan,"Basni, Jodhpur – 342005",0291-2998000,Nephrology,Private,4.4
+AIIMS Raipur,Raipur,Chhattisgarh,"GE Road, Tatibandh, Raipur – 492099",0771-2573777,Nephrology & Transplant,Government,4.6
+Ramkrishna Care Hospital,Raipur,Chhattisgarh,"Aurobindo Enclave, Raipur – 492001",0771-4000777,Nephrology,Private,4.5
+Apollo BSR Hospital,Raipur,Chhattisgarh,"Sector 1, Devendra Nagar, Raipur – 492004",0771-6677777,Nephrology,Private,4.4
+AIIMS Bhubaneswar,Bhubaneswar,Odisha,"Sijua, Patrapada, Bhubaneswar – 751019",0674-2476789,Nephrology & Transplant,Government,4.7
+Apollo Hospital,Bhubaneswar,Odisha,"Plot No. 251, Sainik School Road, Bhubaneswar – 751005",0674-6660066,Nephrology,Private,4.6
+KIMS Hospital,Bhubaneswar,Odisha,"KIIT Campus 5, Bhubaneswar – 751024",0674-6646500,Nephrology,Private,4.5
+SCB Medical College,Cuttack,Odisha,"Manglabag, Cuttack – 753007",0671-2413073,Nephrology,Government,4.1
+Coimbatore Medical College,Coimbatore,Tamil Nadu,"Coimbatore – 641014",0422-2301393,Nephrology,Government,4.2
+PSG Hospitals,Coimbatore,Tamil Nadu,"Peelamedu, Coimbatore – 641004",0422-4345000,Nephrology & Transplant,Private,4.7
+GEM Hospital,Coimbatore,Tamil Nadu,"45 Pankaja Mill Road, Coimbatore – 641045",0422-4377777,Nephrology,Private,4.6
+Sri Ramakrishna Hospital,Coimbatore,Tamil Nadu,"395 Sarojini Naidu Road, Coimbatore – 641044",0422-4500000,Nephrology,Private,4.5
+Kasturba Medical College Hospital,Mangalore,Karnataka,"Light House Hill Road, Mangaluru – 575001",0824-2445858,Nephrology & Transplant,Private,4.7
+Father Muller Medical College,Mangalore,Karnataka,"Kankanady, Mangaluru – 575002",0824-2238000,Nephrology,Private,4.4
+AJ Institute of Medical Sciences,Mangalore,Karnataka,"Kuntikana, Mangaluru – 575004",0824-2225533,Nephrology,Private,4.4
+Jawaharlal Nehru Medical College,Hubli,Karnataka,"Nehru Nagar, Hubli – 580029",0836-2202727,Nephrology,Government,4.2
+KLES Dr. Prabhakar Kore Hospital,Hubli,Karnataka,"JNMC Campus, Nehru Nagar, Hubli – 580025",0836-2202444,Nephrology,Private,4.5
+Pandit Bhagwat Dayal Sharma PGIMS,Rohtak,Haryana,"Rohtak – 124001",01262-213300,Nephrology & Transplant,Government,4.4
+Shri Guru Ram Rai Institute,Dehradun,Uttarakhand,"Patel Nagar, Dehradun – 248001",0135-2628888,Nephrology,Private,4.5
+Doon Hospital,Dehradun,Uttarakhand,"New Road, Dehradun – 248001",0135-2742150,Nephrology,Government,4.1
+AIIMS Rishikesh,Rishikesh,Uttarakhand,"Virbhadra Road, Rishikesh – 249203",0135-2471500,Nephrology & Transplant,Government,4.8
+Narayana Superspeciality Hospital,Kolkata,West Bengal,"120/1 Nager Bazar, Dunlop, Kolkata – 700110",033-66001500,Nephrology,Private,4.5
+Christian Medical College,Vellore,Tamil Nadu,"Ida Scudder Road, Vellore – 632004",0416-2281000,Nephrology & Transplant,Private,4.9
+Rajiv Gandhi Cancer Institute,Delhi,Delhi,"D-85 Sector 6, Rohini, New Delhi – 110085",011-47022222,Nephrology,Private,4.5
+Nizam's Institute of Medical Sciences,Hyderabad,Telangana,"Punjagutta, Hyderabad – 500082",040-23489000,Nephrology & Transplant,Government,4.6
+Aster CMI Hospital,Bangalore,Karnataka,"New Airport Road, Hebbal, Bengaluru – 560092",080-43423232,Nephrology,Private,4.6
+Aster DM Healthcare,Kochi,Kerala,"Aster Medcity, Kuttisahib Road, Kochi – 682027",0484-6699999,Nephrology & Transplant,Private,4.8
+Amrita Institute of Medical Sciences,Kochi,Kerala,"AIMS Ponekkara, Kochi – 682041",0484-2858000,Nephrology,Private,4.7
+Government Medical College,Thiruvananthapuram,Kerala,"Medical College PO, Thiruvananthapuram – 695011",0471-2528400,Nephrology,Government,4.3
+Regional Cancer Centre,Thiruvananthapuram,Kerala,"Medical College Campus, Thiruvananthapuram – 695011",0471-2442541,Nephrology,Government,4.3
+Calicut Medical College,Kozhikode,Kerala,"Medical College Road, Kozhikode – 673008",0495-2350216,Nephrology,Government,4.2
+Baby Memorial Hospital,Kozhikode,Kerala,"Indira Gandhi Road, Kozhikode – 673004",0495-2728000,Nephrology,Private,4.5
+Panvel,Panvel,Maharashtra,"Sector 16, Raigad, Navi Mumbai – 410206",022-27465000,Nephrology,Private,4.3
+MGM Hospital Navi Mumbai,Navi Mumbai,Maharashtra,"Sector 3, Vashi, Navi Mumbai – 400703",022-27662000,Nephrology & Transplant,Private,4.6
+Apollo Hospital Navi Mumbai,Navi Mumbai,Maharashtra,"Plot No 13, Sector 23, Kopar Khairane, Navi Mumbai – 400709",022-39889900,Nephrology,Private,4.5
+Fortis Hospital Navi Mumbai,Navi Mumbai,Maharashtra,"Phase 2 Millenium Business Park, Mahape, Navi Mumbai – 400710",022-61114444,Nephrology,Private,4.5
+Lokmanya Tilak Municipal General Hospital,Mumbai,Maharashtra,"Sion, Mumbai – 400022",022-24076381,Nephrology,Government,4.1
+AIIMS Bhubaneswar Extended,Bhubaneswar,Odisha,"Sijua Patrapada, Bhubaneswar – 751019",0674-2476799,Kidney Transplant,Government,4.6
+Capital Hospital,Bhubaneswar,Odisha,"Unit-6, Bhubaneswar – 751001",0674-2391983,Nephrology,Government,4.0
+Hi-Tech Medical College,Bhubaneswar,Odisha,"Rasulgarh, Bhubaneswar – 751010",0674-6660000,Nephrology,Private,4.3
+AIIMS Raipur Extended,Raipur,Chhattisgarh,"GE Road Tatibandh, Raipur – 492099",0771-2573700,Kidney Transplant,Government,4.5
+Pt JNM Medical College,Raipur,Chhattisgarh,"Jail Road, Raipur – 492001",0771-4255200,Nephrology,Government,4.1
+NMC Hospital Raipur,Raipur,Chhattisgarh,"Sector 1 Avanti Vihar, Raipur – 492001",0771-6009900,Nephrology,Private,4.3
+AIIMS Rishikesh Extended,Rishikesh,Uttarakhand,"Virbhadra Road, Rishikesh – 249203",0135-2471600,Kidney Transplant,Government,4.7
+Max Hospital Dehradun,Dehradun,Uttarakhand,"Mussoorie Diversion Road, Dehradun – 248001",0135-6680000,Nephrology,Private,4.4
+Graphic Era Hospital,Dehradun,Uttarakhand,"566/6 Bell Road, Clement Town, Dehradun – 248002",0135-2261000,Nephrology,Private,4.2
+PGIMER Chandigarh Extended,Chandigarh,Punjab,"Sector 12, Chandigarh – 160012",0172-2755500,Kidney Transplant,Government,4.9
+Dayanand Medical College,Ludhiana,Punjab,"Tagore Nagar, Ludhiana – 141001",0161-2301023,Nephrology & Transplant,Private,4.6
+SGPGI Lucknow Extended,Lucknow,Uttar Pradesh,"Raebareli Road, Lucknow – 226014",0522-2668800,Kidney Transplant,Government,4.8
+Fortis Hospital Noida,Noida,Uttar Pradesh,"B-22 Sector 62, Noida – 201301",0120-5000444,Nephrology,Private,4.5
+JIPMER Extended,Pondicherry,Puducherry,"Dhanvantri Nagar, Puducherry – 605006",0413-2272390,Kidney Transplant,Government,4.9
+Indira Gandhi Government Medical College,Nagpur,Maharashtra,"Mayo Hospital, Nagpur – 440018",0712-2700777,Nephrology,Government,4.0
+Fortis Hospital Kolkata Extended,Kolkata,West Bengal,"730 Anandapur EM Bypass, Kolkata – 700107",033-66282091,Kidney Transplant,Private,4.6
+Medica Superspecialty Hospital,Kolkata,West Bengal,"127 Mukundapur, EM Bypass, Kolkata – 700099",033-66520000,Nephrology,Private,4.5
+Manipal Hospital Kolkata,Kolkata,West Bengal,"78 Jessore Road South, Kolkata – 700157",033-40047200,Nephrology,Private,4.4
+Believers Church Medical College,Thiruvalla,Kerala,"Thiruvalla, Pathanamthitta – 689103",0469-2630010,Nephrology,Private,4.5
+VPS Lakeshore Hospital,Kochi,Kerala,"NH-47, Nettoor, Maradu, Kochi – 682040",0484-2701000,Nephrology & Transplant,Private,4.6
+Nims Medicity,Thiruvananthapuram,Kerala,"Aralumoodu, Neyyattinkara – 695121",0471-2222555,Nephrology,Private,4.3
+CARE Hospital Visakhapatnam,Visakhapatnam,Andhra Pradesh,"10-50-11/5 Waltair Main Road, Visakhapatnam – 530002",0891-6677777,Nephrology & Transplant,Private,4.6
+Apollo Hospital Visakhapatnam,Visakhapatnam,Andhra Pradesh,"Waltair Uplands, Visakhapatnam – 530002",0891-2717777,Nephrology,Private,4.5
+Government General Hospital,Visakhapatnam,Andhra Pradesh,"Jagadamba Junction, Visakhapatnam – 530002",0891-2564891,Nephrology,Government,4.1
+NTR Vaidyaseva Trust,Vijayawada,Andhra Pradesh,"Poranki, Vijayawada – 521137",0866-2970600,Nephrology,Government,4.2
+Andhra Hospitals,Vijayawada,Andhra Pradesh,"Governorpeta, Vijayawada – 520002",0866-2470355,Nephrology,Private,4.4
+Yashoda Hospital Vijayawada,Vijayawada,Andhra Pradesh,"Bhavanipuram, Vijayawada – 520012",0866-6610000,Nephrology & Transplant,Private,4.5
+PGIMER Chandigarh Nephrology,Chandigarh,Punjab,"Sector 12 Chandigarh – 160012",0172-2756565,Nephrology,Government,4.8
+Pondicherry Institute of Medical Sciences,Pondicherry,Puducherry,"Kalapet, Pondicherry – 605014",0413-2656271,Nephrology,Private,4.5
+Mahatma Gandhi Medical College,Pondicherry,Puducherry,"Pillayarkuppam, Puducherry – 607402",0413-2615449,Nephrology,Private,4.3
+Sri Manakula Vinayagar Medical College,Pondicherry,Puducherry,"Kalitheerthalkuppam, Puducherry – 605107",0413-2657999,Nephrology,Private,4.4
